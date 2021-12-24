@@ -1,5 +1,7 @@
 # logiops
 
+Follow FORUM: https://danishshakeel.me/configure-logitech-mx-master-3-on-linux-logiops/
+
 This is an unofficial driver for Logitech mice and keyboard.
 
 This is currently only compatible with HID++ \>2.0 devices.
